@@ -11,7 +11,7 @@ def test_return_number_3():
 
 def test_return_string_vcu():
     """Make sure the return of the function is the string vcu"""
-    assert hw1.return_string_vcu() == "vcu"
+    assert hw1.return_string_vcu() "vcu"
 
 
 def test_return_lowercased_string():
