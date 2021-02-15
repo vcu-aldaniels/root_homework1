@@ -1,14 +1,14 @@
-""" This set of functions should return the appropriate data type"""
+"""This set of functions should return the appropriate data type"""
 
 
 def return_number_3(): 
-    """ This function should return an integer with the value of 3"""
+    """This function should return an integer with the value of 3"""
     return_value = 3
     return return_value
 
 
 def return_string_vcu(): 
-    """ This function should return a string with the lowercase value of vcu"""
+    """This function should return a string with the lowercase value of vcu"""
     return_value = return_string_vcu.lower()
     return return_value
 
@@ -28,6 +28,6 @@ def return_without_starting_ending_whitespace(input_string):
 
 
 def return_addition(first_number, second_number):
-    """ Return the two numbers added together. """
+    """Return the two numbers added together."""
     return_value = first_number + second_number
     return return_value
