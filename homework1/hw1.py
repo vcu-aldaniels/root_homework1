@@ -8,10 +8,10 @@ def return_number_3():
     return return_value
 
 
-def return_string_vcu(): 
+def return_string_vcu(str): 
     """ This function should return a string with the lowercase value of vcu"""
-
-    return_value = vcu.lower()
+    str = "Vcu"
+    return_value = str.lower()
     return return_value
 
 
